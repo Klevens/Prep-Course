@@ -1,0 +1,42 @@
+body {
+    background-image: url(https://d3d4s9jdu9j4x0.cloudfront.net/wp-content/uploads/2017/04/26132519/torre_de_salami.jpg);
+}
+
+
+#divClass h1 {
+    color: tomato;
+    margin: auto;
+    text-align: center;
+    padding: 10px;
+}
+
+#divClass h3, h4 {
+    margin: 0;
+}
+
+#divClass {
+    width: 500px;
+    margin: auto;
+    background-color: antiquewhite;
+    padding: 20px;
+}
+
+#thirdDiv {
+    width: 500px;
+    height: 600px;
+    background-color: coral;
+    padding: 50px;
+    border: solid 2px black;
+    margin: auto;
+}
+
+#thirdDiv img {
+    width: 400px;
+    height: 250px;
+    
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
